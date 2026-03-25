@@ -4,11 +4,22 @@
 
 ---
 
+## 🌐 Social
+<div align="center" style="display: flex; gap: 12px; justify-content: center;">
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giacomo-placenti-273a20276/)
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gplacenti)
+  
+</div>
+
+---
+
 ## 🚀 Tech Stack
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
 
-  <!-- Linguaggi -->
+  <!-- Languages -->
   <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
   </a>
@@ -30,7 +41,7 @@
     <img src="https://img.shields.io/badge/WPF-007ACC?style=for-the-badge&logo=windows&logoColor=white" alt="WPF">
   </a>
 
-  <!-- Database -->
+  <!-- Databases -->
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   </a>
@@ -42,10 +53,6 @@
   <!-- Tools / API / Middleware -->
   <a href="https://grpc.io/" target="_blank">
     <img src="https://img.shields.io/badge/gRPC-339933?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC">
-  </a>
-
-  <a href="https://jwt.io/" target="_blank">
-    <img src="https://img.shields.io/badge/JWT-FF5722?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT">
   </a>
 
   <a href="https://www.hangfire.io/" target="_blank">
@@ -68,13 +75,11 @@
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio">
   </a>
 
+  <a href="https://jwt.io/" target="_blank">
+    <img src="https://img.shields.io/badge/JWT-FF5722?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT">
+  </a>
+
 </div>
-
----
-
-## 🌐 Social
-- LinkedIn: [https://www.linkedin.com/in/giacomo-placenti-273a20276/](https://www.linkedin.com/in/giacomo-placenti-273a20276/)
-- GitHub: [https://github.com/gplacenti](https://github.com/gplacenti)
 
 ---
 
