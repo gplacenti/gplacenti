@@ -1,3 +1,9 @@
+# 👋 Hello, I'm Giacomo — James for friends
+
+💻 HMI Developer / .NET Specialist
+
+---
+
 ## 🚀 Tech Stack
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
@@ -59,3 +65,14 @@
   </a>
 
 </div>
+
+---
+
+## 🌐 Social
+- LinkedIn: [https://www.linkedin.com/in/giacomo-placenti-273a20276/](https://www.linkedin.com/in/giacomo-placenti-273a20276/)
+- GitHub: [https://github.com/gplacenti](https://github.com/gplacenti)
+
+---
+
+## 📊 Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gplacenti)
