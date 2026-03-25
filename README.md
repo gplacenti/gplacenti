@@ -5,8 +5,19 @@
 ## 🚀 Tech Stack
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
 
+<!-- C# -->
   <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  </a>
+
+  <!-- VB.NET -->
+  <a href="https://learn.microsoft.com/dotnet/visual-basic/" target="_blank">
+    <img src="https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VB.NET">
+  </a>
+
+  <!-- C++ -->
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   </a>
 
   <a href="https://learn.microsoft.com/dotnet/" target="_blank">
