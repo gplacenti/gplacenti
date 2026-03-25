@@ -44,6 +44,10 @@
     <img src="https://img.shields.io/badge/gRPC-339933?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC">
   </a>
 
+  <a href="https://jwt.io/" target="_blank">
+    <img src="https://img.shields.io/badge/JWT-FF5722?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT">
+  </a>
+
   <a href="https://www.hangfire.io/" target="_blank">
     <img src="https://img.shields.io/badge/Hangfire-FE3B3B?style=for-the-badge&logo=hangfire&logoColor=white" alt="Hangfire">
   </a>
