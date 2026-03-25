@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Giacomo — James for friends
 💻 HMI Developer / .NET Specialist  
-🧘‍♂️ Yoga lover | 📚 Fantasy lover
+🧘‍♂️ Yoga lover | 📚 Fantasy fan
 
 ---
 
