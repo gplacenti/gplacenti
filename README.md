@@ -5,7 +5,7 @@
 ---
 
 ## 🌐 Social
-<div align="center" style="display: flex; gap: 12px; justify-content: center;">
+<div align="center" style="display: flex; flex-wrap: nowrap; gap: 12px; justify-content: center; overflow-x: auto; padding-bottom: 8px;">
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giacomo-placenti-273a20276/)
   
@@ -17,7 +17,7 @@
 
 ## 🚀 Tech Stack
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+<div align="center" style="display: flex; flex-wrap: nowrap; gap: 12px; justify-content: center; overflow-x: auto; padding-bottom: 8px;">
 
   <!-- Languages -->
   <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
