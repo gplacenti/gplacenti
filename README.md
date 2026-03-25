@@ -5,19 +5,22 @@
 ---
 
 ## 🌐 Social
-<div align="center" style="display: flex; flex-wrap: nowrap; gap: 12px; justify-content: center; overflow-x: auto; padding-bottom: 8px;">
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start;">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giacomo-placenti-273a20276/)
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gplacenti)
-  
+  <a href="https://www.linkedin.com/in/giacomo-placenti-273a20276/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <a href="https://github.com/gplacenti" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+
 </div>
 
 ---
 
 ## 🚀 Tech Stack
-
-<div align="center" style="display: flex; flex-wrap: nowrap; gap: 12px; justify-content: center; overflow-x: auto; padding-bottom: 8px;">
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start;">
 
   <!-- Languages -->
   <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
